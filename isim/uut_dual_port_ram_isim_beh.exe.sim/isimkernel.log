@@ -1,0 +1,28 @@
+Command line:
+   uut_dual_port_ram_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57981
+
+Tue Sep 22 18:05:05 2020
+
+
+ Elaboration Time: 0.859375 sec
+
+ Current Memory Usage: 5172.87 Meg
+
+ Total Signals          : 25
+ Total Nets             : 74
+ Total Signal Drivers   : 13
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 3
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 576
+
+ Total Simulation Time: 1.15625 sec
+
+ Current Memory Usage: 5015.58 Meg
+
+Tue Sep 22 18:06:24 2020
+
